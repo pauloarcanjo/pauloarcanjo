@@ -8,7 +8,7 @@ Atualmente sou estudante da cubos academy e este é meu Github
 - 🌱 Estou aprendendo linguagem em Javascript dedicado a Backend
 - 👯 Tenho intenções de compartilhar minhas experiências e criar redes.
 - 🤔 Nesta fase da carreira todo compartilhamento é bem vindo.
-- 💬 Pergunte-me, sempre estarei dispoível para ajudar. 
+- 💬 Pergunte-me, sempre estarei disponível para ajudar. 
 - ⚡ Adoro pedalar, tenho duas bicicletas e elas são parte de mim.
 
 **Tecnologias**: 
